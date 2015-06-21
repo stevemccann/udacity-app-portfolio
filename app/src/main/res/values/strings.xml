@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotifyapp_toastmsg">This will launch my spotify app!</string>
+    <string name="scoresapp_toastmsg">This will launch my scores app!</string>
+    <string name="libraryapp_toastmsg">This will launch my library app!</string>
+    <string name="buildbiggerapp_toastmsg">This will launch my build it bigger app!</string>
+    <string name="xyzreaderapp_toastmsg">This will launch my xyzreader app!</string>
+    <string name="capstoneapp_toastmsg">This will launch my capstone app!</string>
+</resources>
